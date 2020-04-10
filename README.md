@@ -19,13 +19,13 @@ cd would-you-rather
 Install project dependencies
 
 ```
-yarn install
+npm install
 ```
 
 And start the application
 
 ```
-yarn start
+npm start
 ```
 
 The app will automatically launch in your browser.
